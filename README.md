@@ -1,57 +1,64 @@
-💼 Swati Gautam - Personal Portfolio Website
-A modern and elegant personal portfolio built as part of CodTech Internship Task 1. Designed with a dark theme, smooth animations, and responsive layout to showcase my work, education, and resume.
+# 💼 Swati Gautam - Personal Portfolio Website
 
-👩‍💻 About Me
-I’m Swati Gautam, an MCA student passionate about web development and design. This portfolio reflects my journey, skills, and projects built during my academic and internship experiences.
+A modern and elegant personal portfolio built as part of **CodTech Internship Task 1**.  
+Designed with a dark theme, smooth animations, and responsive layout to showcase my work, education, and resume.
 
-🌟 Features
-✨ Dark theme with soft animations
+---
 
-📱 Fully responsive design
+## 👩‍💻 About Me
 
-📄 Resume download button
+I’m **Swati Gautam**, an MCA student passionate about web development and design.  
+This portfolio reflects my journey, skills, and projects built during my academic and internship experiences.
 
-📚 Interactive education section
+---
 
-🛠️ Project highlights with descriptions
+## 🌟 Features
 
-📬 Contact information for easy reach
+- ✨ **Dark theme with soft animations**  
+- 📱 **Fully responsive design**  
+- 📄 **Resume download button**  
+- 🎓 **Interactive education section**  
+- 🛠️ **Project highlights with descriptions**  
+- 📬 **Contact information for easy reach**
 
-💼 Projects Included
-🎨 Palette Genie – Generates color palettes from uploaded images.
+---
 
-🧠 Ikigai – A personal development project to help discover purpose through structured prompts.
+## 🧩 Projects Included
 
-🖥️ Technologies Used
-HTML5
+- 🎨 **Palette Genie** – Generates color palettes from uploaded images.  
+- 🧠 **Ikigai** – A personal development project to help discover purpose through structured prompts.
 
-CSS3
+---
 
-JavaScript (basic)
+## 🖥️ Technologies Used
 
-Responsive Design
+- HTML5  
+- CSS3  
+- JavaScript (basic)  
+- Responsive Design  
+- Figma (for layout planning)
 
-Figma for layout planning
+---
 
+## 📎 Resume
 
-📎 Resume
-A downloadable resume is available via the "Resume" button on the homepage.
-Or directly view: Swati_Gautam_Resume.pdf
+A downloadable resume is available via the **"Resume"** button on the homepage.  
+Or directly view it here: [`Swati_Gautam_Resume.pdf`](./Swati_Gautam_Resume.pdf)
 
-🛠️ How to Use
-Clone the repository
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/SwatiGautam02/codetech-task1.git
-Open index.html in your browser
+## 🛠️ How to Use
 
-Explore different sections
+1. **Clone the repository:**
 
-Click Resume to download PDF
+   ```bash
+   git clone https://github.com/SwatiGautam02/codetech-task1.git
+2. Open index.html in your browser.
+
+3. Explore different sections.
+
+4. Click the Resume button to view/download the PDF.
 
 📫 Contact
-Want to connect or collaborate? Reach out via the contact section on the website.
-
-
+Want to connect or collaborate?
+Reach out via the contact section of the website. I'm always open to opportunities to grow and learn.
